@@ -1,3 +1,11 @@
+# Test
+## Without changes 
+load:
+fcp: 1.3
+lcp: 1.3
+cls: 0.19
+fip: 0.19
+
 # Improving Web Performance Demo Website
 
 This is example website for Todd Gardner's "Improving Web Performance" [Frontend Masters workshop](https://frontendmasters.com/courses/web-perf/). It is intended to illustrate common and effective techniques to improve the performance of a website. It is not meant to be used in production.
@@ -15,4 +23,3 @@ Open a browser at [http://localhost:3000/](http://localhost:3000/) to view the w
 
 - [Performance Worksheet](https://docs.google.com/spreadsheets/d/10QlmdN4A1mtJFc2fLACjVftN2SOjsDuwgZ35slFKwG4/edit?usp=sharing)
 - [Example Performance Dashboard](https://docs.google.com/spreadsheets/d/1WkDM3yg--bs9XHm2C5rcG3kKOGfjuKYcOZHmCpufOyo/edit?usp=sharing)
-
